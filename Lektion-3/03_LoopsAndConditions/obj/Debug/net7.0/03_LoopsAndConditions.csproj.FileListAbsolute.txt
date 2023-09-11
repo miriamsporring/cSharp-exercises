@@ -1,0 +1,14 @@
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.exe
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.deps.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.runtimeconfig.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\bin\Debug\net7.0\03_LoopsAndConditions.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.AssemblyInfoInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.AssemblyInfo.cs
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.csproj.CoreCompileInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\refint\03_LoopsAndConditions.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\03_LoopsAndConditions.genruntimeconfig.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-3\03_LoopsAndConditions\obj\Debug\net7.0\ref\03_LoopsAndConditions.dll

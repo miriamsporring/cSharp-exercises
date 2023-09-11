@@ -1,0 +1,14 @@
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\bin\Debug\net7.0\address_book.exe
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\bin\Debug\net7.0\address_book.deps.json
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\bin\Debug\net7.0\address_book.runtimeconfig.json
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\bin\Debug\net7.0\address_book.dll
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\bin\Debug\net7.0\address_book.pdb
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\address_book.GeneratedMSBuildEditorConfig.editorconfig
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\address_book.AssemblyInfoInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\address_book.AssemblyInfo.cs
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\address_book.csproj.CoreCompileInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\address_book.dll
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\refint\address_book.dll
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\address_book.pdb
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\address_book.genruntimeconfig.cache
+C:\nackademin\cSharp\cSharp-exercises\address_book\address_book\address_book\obj\Debug\net7.0\ref\address_book.dll
