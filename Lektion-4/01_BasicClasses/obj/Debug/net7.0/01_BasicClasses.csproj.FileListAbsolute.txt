@@ -1,0 +1,14 @@
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\01_BasicClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\01_BasicClasses.AssemblyInfoInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\01_BasicClasses.AssemblyInfo.cs
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\01_BasicClasses.csproj.CoreCompileInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\bin\Debug\net7.0\01_BasicClasses.exe
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\bin\Debug\net7.0\01_BasicClasses.deps.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\bin\Debug\net7.0\01_BasicClasses.runtimeconfig.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\bin\Debug\net7.0\01_BasicClasses.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\bin\Debug\net7.0\01_BasicClasses.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\01_BasicClasses.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\refint\01_BasicClasses.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\01_BasicClasses.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\01_BasicClasses.genruntimeconfig.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\01_BasicClasses\obj\Debug\net7.0\ref\01_BasicClasses.dll

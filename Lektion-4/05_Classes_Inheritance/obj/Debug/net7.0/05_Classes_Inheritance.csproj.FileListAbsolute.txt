@@ -1,0 +1,14 @@
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.AssemblyInfoInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.AssemblyInfo.cs
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.csproj.CoreCompileInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.exe
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.deps.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.runtimeconfig.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\bin\Debug\net7.0\05_Classes_Inheritance.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\refint\05_Classes_Inheritance.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\05_Classes_Inheritance.genruntimeconfig.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\05_Classes_Inheritance\obj\Debug\net7.0\ref\05_Classes_Inheritance.dll

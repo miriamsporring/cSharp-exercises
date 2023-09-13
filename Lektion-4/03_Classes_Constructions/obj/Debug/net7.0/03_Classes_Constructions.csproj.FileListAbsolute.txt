@@ -1,0 +1,4 @@
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\03_Classes_Constructions\obj\Debug\net7.0\03_Classes_Constructions.GeneratedMSBuildEditorConfig.editorconfig
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\03_Classes_Constructions\obj\Debug\net7.0\03_Classes_Constructions.AssemblyInfoInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\03_Classes_Constructions\obj\Debug\net7.0\03_Classes_Constructions.AssemblyInfo.cs
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\03_Classes_Constructions\obj\Debug\net7.0\03_Classes_Constructions.csproj.CoreCompileInputs.cache

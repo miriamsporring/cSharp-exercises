@@ -15,8 +15,9 @@ namespace TestMiriam
                 int tal = Convert.ToInt32(Console.ReadLine());
                 total += tal;
                 times++;
+                Console.WriteLine($"total= {total}");
 
-            } while (total <= 20);
+            } while (total < 20);
             Console.WriteLine($"Grattis, det tog {times} försök innan du kom upp i 20 ;)");
             Console.ReadLine();
         }

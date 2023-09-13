@@ -1,0 +1,14 @@
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_Classes_GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_Classes_GettersAndSetters.AssemblyInfoInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_Classes_GettersAndSetters.AssemblyInfo.cs
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_Classes_GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_Classes_GettersAndSetters.exe
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_Classes_GettersAndSetters.deps.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_Classes_GettersAndSetters.runtimeconfig.json
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_Classes_GettersAndSetters.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\bin\Debug\net7.0\02_Classes_Classes_GettersAndSetters.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_Classes_GettersAndSetters.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\refint\02_Classes_Classes_GettersAndSetters.dll
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_Classes_GettersAndSetters.pdb
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\02_Classes_Classes_GettersAndSetters.genruntimeconfig.cache
+C:\nackademin\cSharp\cSharp-exercises\Lektion-4\02_Classes_Classes_GettersAndSetters\obj\Debug\net7.0\ref\02_Classes_Classes_GettersAndSetters.dll

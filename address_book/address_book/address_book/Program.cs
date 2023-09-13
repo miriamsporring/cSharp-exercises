@@ -1,6 +1,6 @@
 ﻿using address_book;
 
-var adressPersons = new List<AddressPerson>();
+var addressPersons = new List<AddressPerson>();
 var answer = "n";
 
 
@@ -30,11 +30,11 @@ do
     Console.Write("Vill du lägga till en till person? (y/n): ");
     answer = Console.ReadLine();
 
-} while (answer.ToLower() == "y");
+} while (answer!.ToLower() == "y");
 
 Console.Clear();
 Console.WriteLine("Här är alla kontaktpersoner: ");
-foreach (var contact in adressPersons)
+foreach (var contact in addressPersons)
 {
-    Console.WriteLine($"{contact.FirstName} {contact.LastName} <{contact.Email}>");
+    Console.WriteLine($"{contact.FirstName} {contact.LastName} <{contact.Email}> {contact.PhoneNumber}");
 }
