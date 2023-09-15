@@ -1,24 +1,22 @@
 ﻿using _03_Classes_Constructions.Models;
 
-var customer_1;  new Customer(customer_1);
+var customer_1 = new Customer();
 
-var customer_2 = new Customer(); //om något objekt ska uppdateras
+var customer_2 = new Customer(); //bra när man ska uppdatera ett objekt
 customer_2.Id = 1;
-customer_2.Name = "Miriam Sporring";
-customer_2.Email = "miriam.sporring@domain.com";
-customer_2.phoneNumber = "12345789";
+customer_2.Name = "Mirre";
+customer_2.Email = "mirre@domain.com";
+customer_2.PhoneNumber = "1234567890";
 
-var customer_3 = new Customer() //bra om man bara ska mata in
+var customer_3 = new Customer() //skapa ett nytt objekt, rekommenderas
 {
     Id = 1,
-    Name = "Miriam Sporring",
-    Email = "miriam.sporring@domain.com";
-    phoneNumber = "12456789";
+    Name = "Mirre",
+    Email = "mirre@domain.com",
+    PhoneNumber = "1234567890",
 };
 
+//Tredje sättet gör i i vår klass, se Customer.cs
 
-
-var customer_4 = new Customer("Miriam Sporring", "miriam@domain.com");
-
-var = new Customer();
+customer_4 = new Customer("Mirre Sporring", "mirre@domain.com", "123456789");
 

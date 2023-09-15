@@ -1,4 +1,6 @@
-﻿namespace _03_Classes_Constructions.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace _03_Classes_Constructions.Models;
 
 internal class Contact
 {
