@@ -24,6 +24,7 @@ internal class MenuService : IMenuService
         do //true statement by default
         {
             Console.Clear();
+
             Console.WriteLine("1. Skapa en ny användare");
             Console.WriteLine("2. Visa en specifik användare");
             Console.WriteLine("3. Visa alla användare");
@@ -63,7 +64,7 @@ internal class MenuService : IMenuService
     {
         Console.Clear();
         Console.WriteLine("Skapa en ny användare");
-        Console.WriteLine("_______________________");
+        Console.WriteLine("_____________________");
 
         var user = new UserCreateRequest();
 
@@ -91,7 +92,7 @@ internal class MenuService : IMenuService
 
     { Console.Clear();
         Console.WriteLine("Alla Användare");
-        Console.WriteLine("__________________________________");
+        Console.WriteLine("_______________");
 
         foreach (var user in _userService.GetAll())
             Console.WriteLine($"{user.FirstName} {user.LastName} <{user.Email}>");
@@ -103,7 +104,7 @@ internal class MenuService : IMenuService
     {
         Console.Clear();
         Console.WriteLine("Specifik Användare");
-        Console.WriteLine("__________________________________");
+        Console.WriteLine("__________________");
         Console.Write("Ange e-postadress: ");
         var email = Console.ReadLine();
         var user = _userService.Get(user => user.Email == email);
